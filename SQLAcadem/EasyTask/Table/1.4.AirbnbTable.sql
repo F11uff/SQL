@@ -4,8 +4,8 @@ CREATE TABLE Users
     name              VARCHAR(255) NOT NULL,
     email             VARCHAR(255) NOT NULL,
     email_verified_at VARCHAR(255),
-    password          VARCHAR(255),
-    phone_number      VARCHAR(255)
+    password          VARCHAR(255) NOT NULL,
+    phone_number      VARCHAR(255) NOT NULL
 );
 
 CREATE TABLE Rooms
