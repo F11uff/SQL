@@ -1,0 +1,4 @@
+id	company	plane	town_from	town_to	time_out	time_in
+1182	1	TU-134	Moscow	Rostov	1900-01-01 12:35:00.000000	1900-01-01 14:30:00.000000
+7772	5	Boeing	Singapore	London	1900-01-01 12:00:00.000000	1900-01-02 02:00:00.000000
+7774	5	Boeing	Singapore	London	1900-01-01 14:00:00.000000	1900-01-02 06:00:00.000000
